@@ -1,4 +1,4 @@
-![logo](progettojs/assets/img/logo.png)
+![logo](https://github.com/SaverioProperzi/progJS/assets/160963255/23c7b2b3-b02f-4fd5-9570-015642625353)
 
 # Javascript Counter    
 Contatore realizzato nell'apprendimento delle funzionalità di Javascript.  
