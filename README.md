@@ -4,7 +4,7 @@
 Contatore realizzato nell'apprendimento delle funzionalità di Javascript.  
 
 
-![appjs](https://github.com/SaverioProperzi/progJS/assets/160963255/6b20618f-88bd-484e-82dc-45a27d12cf5e)
+![appjsdef](https://github.com/SaverioProperzi/progJS/assets/160963255/fdb5f54b-611f-4b1b-b747-127218ed86f2)
 
 
 
